@@ -1,0 +1,7 @@
+# tmp/generated/garbage files
+*.o
+*.d
+*.map
+*.elf
+*.gba
+*.sav

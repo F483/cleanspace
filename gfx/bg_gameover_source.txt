@@ -1,0 +1,3 @@
+Image:   bg_gameover_img
+Source:  https://secure.flickr.com/photos/by_photo/10150637756/
+License: cc-by-2.0
